@@ -1,3 +1,7 @@
-creating the first file
 Control M
 Devsupport
+MW Admins
+DB Admins
+Devops
+code Managament
+
